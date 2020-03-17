@@ -1,0 +1,4 @@
+target 'xlvlx' do
+	pod 'AFNetworking'
+	pod 'SDWebImage'
+end
